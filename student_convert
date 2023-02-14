@@ -1,0 +1,9 @@
+package Student_Portal_beta2;
+import java.util.Scanner;
+
+public class student_convert {
+    public static void main(String[] args) {
+        Scanner call_scanner = new Scanner(System.in);
+        student_convert_beta1.First_input(call_scanner);
+    }
+}
